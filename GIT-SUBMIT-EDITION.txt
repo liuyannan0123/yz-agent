@@ -1,0 +1,16 @@
+当前目录为 Git 提交版。
+
+用途：
+- 用于公共仓库提交
+- 用于项目结构展示
+- 用于文档和方案说明
+
+不包含：
+- 完整私有问答逻辑
+- 完整快答规则
+- OCR 增强实现
+- 私有业务规则
+
+完整私有实现请使用桌面上的私有发布包：
+- ai-agent-system-private-bundle
+- ai-agent-system-private-bundle.zip

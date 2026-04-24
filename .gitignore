@@ -1,0 +1,14 @@
+.env
+.env.*
+logs/
+data/
+*.log
+*.sqlite
+*.db
+*.pyc
+__pycache__/
+.DS_Store
+private_dist/
+private_bundle/
+knowledge/
+uploads/
